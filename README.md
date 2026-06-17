@@ -32,7 +32,7 @@ This enables more effective representation learning for tasks such as:
 - Node Classification
 - Graph Classification
 - Link Prediction
-- Recommendation Systems
+- Recommendation System
 - Knowledge Graph Analysis
 - Social Network Modeling
 
